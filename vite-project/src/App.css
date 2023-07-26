@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 auto;
+    overflow:hidden
+}
+
+body{
+    background-image: linear-gradient(yellow,gray,orange);
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-size: 100% 100%;
+}
